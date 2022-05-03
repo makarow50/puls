@@ -1,0 +1,10 @@
+@media(max-width: 991px) {
+   .catalog .container {
+      max-width: 720px;
+   }
+   .catalog .catalog {
+      &__content {
+         justify-content: space-around;
+      }
+   }
+}

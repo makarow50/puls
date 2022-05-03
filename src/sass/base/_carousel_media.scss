@@ -1,0 +1,17 @@
+@media(max-width: 991px) {
+   .carousel .container {
+      max-width: 720px;
+   }
+   .carousel .carousel {
+      &__inner {
+         width: 620px;
+         img {
+            width: 80%;
+            display: block;
+            margin: 0 auto;
+         }
+      }
+     
+   }
+   
+}

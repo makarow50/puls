@@ -1,0 +1,19 @@
+@media(max-width: 1200px) {
+   .promo .promo {
+      &__wrapper {
+         align-items: center;
+      }
+   }
+}
+
+@media(max-width: 991px) {
+   .promo .container {
+      max-width: 720px;
+   }
+}
+
+@media(max-width: 767px) {
+   .promo .container {
+      max-width: 650px;
+   }
+}

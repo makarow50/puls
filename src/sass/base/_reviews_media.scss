@@ -1,0 +1,10 @@
+@media(max-width: 991px) {
+   .reviews .container {
+      max-width: 720px;
+   }
+   .reviews .reviews {
+      &__text {
+         padding-right: 10px;
+      }
+   }
+}

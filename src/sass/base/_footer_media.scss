@@ -1,0 +1,18 @@
+@media(max-width: 991px) {
+   footer.footer {
+      height: 550px;
+   }
+   .footer .footer {
+      &__info {
+         width: 400px;
+         height: 150px;
+         padding: 25px;
+      }
+      &__social {
+         display: none;
+      }
+      &__maps {
+         height: 550px;
+      }
+   }
+}

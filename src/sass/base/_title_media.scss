@@ -1,0 +1,17 @@
+@media(max-width: 1200px) {
+   h2.title  {
+      &_left {
+         text-align: center;
+      }
+      
+   }
+}
+
+@media(max-width: 991px) {
+   h2.title  {
+      &_left {
+         font-size: 30px;
+      }
+      
+   }
+}

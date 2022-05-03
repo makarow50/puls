@@ -1,0 +1,8 @@
+@media(max-width: 767px) {
+   .header {
+      justify-content: space-around;
+      &__official {
+         display: none;
+      }
+   }
+}
